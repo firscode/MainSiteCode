@@ -1,0 +1,15 @@
+Report List Information
+
+1.RepertName
+2.User's(Multiple)
+3.ListName (Multiple)
+4.From-Parent (Child/Parent)
+5.From-Parent List (Child/Parent) Name
+
+
+Column For List 
+ 1.Column Name 
+ 2.List Name
+ 3.Column Position
+ 
+
